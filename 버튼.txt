@@ -1,0 +1,3 @@
+수정, 확인   Primary   <button type="button" class="btn btn-outline-primary waves-effect waves-light">수정, 확인</button>
+삭제, 취소   danger   <button type="button" class="btn btn-outline-danger waves-effect waves-light">삭제, 취소</button>
+등록   success   <button type="button" class="btn btn-outline-success waves-effect waves-light">등록</button>
